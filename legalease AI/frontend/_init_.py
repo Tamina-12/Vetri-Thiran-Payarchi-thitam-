@@ -1,0 +1,3 @@
+"""
+LegalEase frontend package.
+"""
